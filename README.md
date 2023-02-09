@@ -28,11 +28,9 @@ Citation: [2] 2023. Citipointe Christian College. Retrieved February 4, 2023 fro
 In line 82 of the Assignment.html, the function of tag <a> with attribure href followed by target="_blank" can cause the browser to open a new window when clicked. In this case, there is an clickable image that open to a new window and direct to an external website, which is the website of a company that I worked in the past. The image(EIC EDUCATION LOGO.png) is in the Images folder: Images/EIC EDUCATION LOGO.png
 Citation: [4] 2023. About | EIC Education. partners.eic.org.cn. Retrieved February 5, 2023 from http://partners.eic.org.cn/about.html
 
-
 #Blog section
 
-In line 23-25 of the Assignment_Blogpage.html, there is a audio of pure music. The <audio controls> tag has a function  of controlling the audio play, and auduo.mp3 is located inside the CSCI1170 folder.
-Citation: [5] BlueTreeAudio. 2018. Upbeat Inspiration. AudioJungle. Retrieved February 5, 2023 from https://audiojungle.net/item/upbeat-inspiration/21415624#.
+In line 23-25 of the Assignment_Blogpage.html, there is a audio of pure music. The <audio controls> tag has a function  of controlling the audio play, and auduo.mp3 is located inside the CSCI1170 folder. Citation: [5] BlueTreeAudio. 2018. Upbeat Inspiration. AudioJungle. Retrieved February 5, 2023 from https://audiojungle.net/item/upbeat-inspiration/21415624#.
 
 In line 32-44 of the Assignment_Blogpage.html, there is a Twitter blog post link to an external website. The content of this blog is about the main language(HTML, CSS, JavaScript and SOL) used to build websites, and this post also provides different platforms(Git & GitHub, React and APIs for learning how to programme. The <blockquote> tag specifices a section that is quoted from another source, and the <script> tag with src attribute specifies the URL of external file. In this case, it references to a blog post on the Twitter website.
 Citation: [6]Damn Coder. 2023. Helping people level up their web development skills. Retrieved February 5, 2023 from https://twitter.com/Damn_coder
