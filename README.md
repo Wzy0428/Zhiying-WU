@@ -32,7 +32,7 @@ Citation: [4] 2023. About | EIC Education. partners.eic.org.cn. Retrieved Februa
 #Blog section
 
 In line 23-25 of the Assignment_Blogpage.html, there is a audio of pure music. The <audio controls> tag has a function  of controlling the audio play, and auduo.mp3 is located inside the CSCI1170 folder.
-Citation: [5] BlueTreeAudio. 2018. Upbeat Inspiration. AudioJungle. Retrieved February 5, 2023 from https://audiojungle.net/item/upbeat-inspiration/21415624#
+Citation: [5] BlueTreeAudio. 2018. Upbeat Inspiration. AudioJungle. Retrieved February 5, 2023 from https://audiojungle.net/item/upbeat-inspiration/21415624#.
 
 In line 32-44 of the Assignment_Blogpage.html, there is a Twitter blog post link to an external website. The content of this blog is about the main language(HTML, CSS, JavaScript and SOL) used to build websites, and this post also provides different platforms(Git & GitHub, React and APIs for learning how to programme. The <blockquote> tag specifices a section that is quoted from another source, and the <script> tag with src attribute specifies the URL of external file. In this case, it references to a blog post on the Twitter website.
 Citation: [6]Damn Coder. 2023. Helping people level up their web development skills. Retrieved February 5, 2023 from https://twitter.com/Damn_coder
